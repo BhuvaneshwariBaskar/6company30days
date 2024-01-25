@@ -1,4 +1,3 @@
-package Atlassian;
 
 public class GoodSubset {
         final long mod=1000000007; 

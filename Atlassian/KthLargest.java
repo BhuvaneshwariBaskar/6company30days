@@ -1,4 +1,3 @@
-package Atlassian;
 
 import java.util.PriorityQueue;
 
